@@ -1,0 +1,6 @@
+[package]
+name = "variables"
+version = "0.1.0"
+authors = ["lineofsky2017 <34702497+lineofsky2017@users.noreply.github.com>"]
+
+[dependencies]
